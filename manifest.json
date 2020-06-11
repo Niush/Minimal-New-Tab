@@ -17,6 +17,5 @@
    "name": "Minimal New Tab",
    "offline_enabled": true,
    "version": "0.3",
-   "default_locale": "en",
    "minimum_chrome_version": "55"
 }
